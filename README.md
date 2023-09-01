@@ -4,7 +4,7 @@ Aplicación sencilla en Node.js dockerizada. Se toma como base este [ejemplo](ht
 
 ## Prueba de código Node.js
 
-- Instalar repositorio: `npm install`
+- Instalar paquetes requeridos: `npm install`
 - Levantar aplicación: `node server.js`
 - Ingresar a http://localhost:8080
 
