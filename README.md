@@ -1,6 +1,6 @@
 # Educación IT - Docker
 
-Aplicación sencilla en Node.js dockerizada. Se toma como base este [ejemplo](https://nodejs.org/es/docs/guides/nodejs-docker-webapp)
+Aplicación sencilla en Node.js dockerizada. Se toma como base este [ejemplo](https://nodejs.org/es/docs/guides/nodejs-docker-webapp).
 
 ## Prueba de código Node.js
 
