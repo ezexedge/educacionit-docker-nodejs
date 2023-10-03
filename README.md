@@ -1,4 +1,4 @@
-# Educación IT - Docker
+# Educación IT - Docker y Node.js
 
 Aplicación sencilla en Node.js dockerizada. Se toma como base este [ejemplo](https://nodejs.org/es/docs/guides/nodejs-docker-webapp).
 
